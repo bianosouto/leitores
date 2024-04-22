@@ -1,0 +1,5 @@
+1) Download e instalaçao do XAMPP
+2) XAMPP Control Panel: inicializar o servidor Apache e o BD MySQL
+3) O projeto devem estar no diretório C:\xampp\htdocs\ (pasta htdocs do diretório de instalação do XAMPP)
+4) Criar o BD no phpMyAdmin (http://localhost/phpmyadmin/)
+5) Iniciar a aplicação (http://localhost/projeto/index.html)
